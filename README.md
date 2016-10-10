@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/alphagov/government-service-design-manual.svg?branch=master)](https://travis-ci.org/alphagov/government-service-design-manual)
+[![Build Status](https://travis-ci.org/lgss/service-design-manual.svg?branch=master)](https://travis-ci.org/lgss/service-design-manual)
 
 # LGSS Service Design Manual
 
