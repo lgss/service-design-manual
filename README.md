@@ -1,24 +1,25 @@
 [![Build Status](https://travis-ci.org/alphagov/government-service-design-manual.svg?branch=master)](https://travis-ci.org/alphagov/government-service-design-manual)
 
-# Government Service Design Manual
+# LGSS Service Design Manual
 
-This is the repository for the UK government's guidance and standards for developing digital services and contains both the assets and the content for the site.
+This is the repository for LGSS' guidance and standards for developing digital services and contains both the assets and the content for the site. It's a fork of the [GOV.UK Service Design Manual](https://www.gov.uk/service-manual), updated for LGSS and Local Government.
 
 The site is built using [Jekyll](http://jekyllrb.com/), and the CSS is [Sassified](http://sass-lang.com). Some validation of the content happens using [Go](http://golang.org/), so you will [need to have Go installed](http://golang.org/doc/install) if you wish to use the Makefile.
-
-## Deploying
-
-[GDS-specific instructions are for how to deploy this content](https://github.com/alphagov/government-service-design-manual/blob/master/docs/how-to-deploy.md).
 
 ## Running the app yourself
 
 Depending on your version of Git, you may need to run these commands to bring in the
-[GOV.UK Frontend Toolkit](https://github.com/alphagov/govuk_frontend_toolkit):
+[LGSS Frontend Toolkit](https://github.com/lgss/lgss-frontend-toolkit):
 
     $ git submodule init
     $ git submodule update
 
-This should import Sass files from the GOV.UK Frontend Toolkit repository into
+If you already have the Service Design Manual running and need to update the toolkit use:
+	
+	$ git submodule foreach git pull origin master
+
+
+This should import Sass files from the LGSS Frontend Toolkit repository into
 `/service-manual/assets/toolkit/`.
 
 Next, install dependencies using bundler::
