@@ -20,15 +20,11 @@ exclude_from_search: true
   <img src="/service-manual/assets/images/DbD-kitemark.png" />
 
   <p>
-    The Digital Service Standard has changed from <a href="/service-manual/digital-by-default-26-points/">26 points</a> to a more concise 18. From 1 June 2015 all transactional services will be assessed on the new 18 points.
+    The Service Standard ensures digital teams build high quality services.
   </p>
 
   <p>
-    The Service Standard ensures digital teams build high quality government services.
-  </p>
-
-  <p>
-    A transactional service must meet each criteria to pass the Government Digital Service assessment. If a service doesn’t pass it won’t appear on LGSS.
+    A transactional service must meet each criteria to pass the Digital Service assessment. If a service doesn’t pass it won’t progress to become a live service.
   </p>
 
   <p>
