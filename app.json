@@ -1,8 +1,8 @@
 {
   "name": "service-design-manual",
-  "description": "Content for UK government Service Design Manual",
-  "repository": "https://github.com/alphagov/government-service-design-manual",
-  "website":"https://www.gov.uk/service-manual",
+  "description": "Content for LGSS Service Design Manual",
+  "repository": "https://github.com/lgss/service-design-manual",
+  "website":"https://www.lgss-digital.co.uk/service-manual",
   "env": {
   }
 }
