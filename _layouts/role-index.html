@@ -1,0 +1,80 @@
+---
+layout: default-wrapper
+section_class: wide role-index
+---
+
+<header class="page-header group">
+  <div class="hgroup">
+    <h1{% if page.long-title %} class="long-title"{% endif %}>{{ page.title }}</h1>
+    {% if page.subtitle %}
+    <h2 class="subtitle">{{ page.subtitle }}</h2>
+    {% endif %}
+  </div>
+</header>
+
+{% assign hero = false %}
+{% for p in site.pages %}
+  {% if p.title == page.hero %}
+    {% assign hero = true %}
+  {% endif %}
+{% endfor %}
+
+<div class="article-container">
+  <div class="primary-links">
+    {% if hero %}
+    <div class="hero link-list">
+      {% for p in site.pages %}
+        {% if p.title == page.hero %}
+        <a href="{{ p.url }}">
+          <h3>{{ p.title }}</h3>
+          <p>{{ p.subtitle }}</p>
+        </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    <div class="link-list wide">
+      <h3>Guides</h3>
+      <ul>
+      {% sorted_for p in site.pages sort_by:title %}
+        {% if p.audience.primary contains page.audience and (p.type == 'guide' or p.type == 'resource') and p.title != page.hero %}
+        <li>
+            <a href="{{ p.url }}">{{ p.title }}</a>
+        </li>
+        {% endif %}
+      {% endsorted_for %}
+      </ul>
+    </div>
+
+  </div>
+
+    {% assign has_secondary_pages = false %}
+    {% for p in site.pages %}
+      {% if p.audience.secondary contains page.audience %}
+        {% assign has_secondary_pages = true %}
+      {% endif %}
+    {% endfor %}
+
+  {% if has_secondary_pages %}
+  <div class="link-list more-guides">
+    <h3>More guides from the manual</h3>
+    <ul>
+    {% sorted_for p in site.pages sort_by:title %}
+      {% if p.audience.secondary contains page.audience %}
+      <li>
+          <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
+          <span class="subtitle">{{ p.subtitle }}</span>
+      </li>
+      {% endif %}
+    {% endsorted_for %}
+    </ul>
+  </div>
+  {% endif %}
+
+  <div class="role-links">
+    {% include _role-links.html %}
+  </div>
+
+  <div class="all-guides"><strong><a href="/service-manual/browse">Browse all guides…</a></strong></div>
+</div>

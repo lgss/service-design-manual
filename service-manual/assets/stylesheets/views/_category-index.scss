@@ -1,0 +1,33 @@
+.category-index {
+  .article-container {
+    .inner {
+      padding: 0 1em;
+
+      @include media(desktop) {
+        margin-right: 33.33%;
+        padding: 0 2em;  
+      }
+
+      // 1st para is bigger
+      .intro,
+      > p:first-of-type {
+        @include core-24;
+      }
+
+      .intro {
+        margin: 0 0 1.5em 0;
+      }
+
+      // H2's get distinct style
+      h2 {
+        font-weight: 700;
+        border-bottom: none;
+        margin: 1.2em 0 0.4em 0;
+      }
+
+      img {
+        max-width: 100%;
+      }
+    }
+  }
+}

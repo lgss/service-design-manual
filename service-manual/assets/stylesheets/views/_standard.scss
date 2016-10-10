@@ -1,0 +1,291 @@
+// ====================================================
+// DIGITAL BY DEFAULT STANDARD PAGE
+//
+
+.dbd {
+
+  @if $is-print == true {
+    .header-wrapper{
+      display: none;
+    }
+    article{
+      width: 90%;
+    }
+    article header h1{
+      border-top: none;
+    }
+  }
+
+  // Swap standard header for DbD kitemark
+  header.page-header {
+    margin: 2em 0 0.5em 0em;
+    padding: 0 0 1em 0;
+    border-bottom: none;
+
+    @include media(desktop) {
+      @if $is-print == false {
+        width: 67%;
+      }
+
+      margin: 0 auto;
+    }
+
+    .hgroup {
+      margin: 0 1em;
+
+      @include media(tablet) {
+        margin: 0 2em;
+      }
+
+      @include media(desktop) {
+        margin: 0;
+      }
+    }
+
+    h1 {
+      @if $is-print == true {
+        display: none;
+      }
+      background: url('/service-manual/assets/images/DbD-kitemark.png') no-repeat 50% 70%;
+      background-size: 100%;
+      text-indent: -9999px;
+      width: 100%;
+      height: 100px;
+
+      @include media(tablet) {
+        height: 140px;
+      }
+
+      @include media(desktop) {
+        height: 150px;
+        background-size: Auto 80%;
+      }
+    }
+  }
+
+  .article-container .inner {
+    padding: 0 2em;
+  }
+
+  .intro {
+    @include media(desktop) {
+      width: 67%;
+      margin: 0 auto;
+    }
+
+    img{
+      margin-bottom: 1.5em;
+      @if $is-print == false {
+        display: none;
+      }
+    }
+
+    h2 {
+      margin-top: 0;
+    }
+
+    p, li {
+      @include core-24;
+    }
+
+    @if $is-print == true {
+      .common-questions{
+        display: none;
+      }
+    }
+
+  }
+
+  // Archived content notice
+  .status-block {
+    @include media(desktop) {
+      width: 67%;
+      margin: 30px auto;
+    }
+    margin-left: 0;
+    margin-right: 0;
+    border: 5px solid $govuk-blue;
+    padding: 30px 15px;
+
+    @include core-36;
+  }
+
+  // The list of criteria
+  .standard {
+    //display: inline-block;
+    vertical-align: middle;
+    padding: 0;
+
+    counter-reset: standard-counter;
+
+    >li {
+      list-style: none;
+
+      display: block;
+      border-top: 1px solid $border-colour;
+      padding: 2em 0 2em 0;
+      margin: 0;
+      @extend %contain-floats;
+
+      page-break-inside: avoid;
+
+      &:first-child{
+        border-top: 5px solid $main-colour;
+      }
+
+      &:before {
+        content: counter(standard-counter);
+        counter-increment: standard-counter;
+
+        display: inline-block;
+        float: left;
+        margin-right:6.5%;
+        text-align: right;
+
+        @include bold-80;
+
+        @include media(tablet) {
+          width: 10%;
+        }
+
+        @if $is-print == true {
+          width: 10%;
+        }
+      }
+
+      .point {
+        @include core-24;
+
+        @include media(tablet) {
+          @if $is-print == true {
+            width: 67%;
+          } @else {
+            width: 50%;
+          }
+          float: left;
+          margin-bottom: 1em;
+        }
+        orphans: 0;
+
+        width: 86%;
+        @include media(desktop) {
+          float: left;
+        }
+        @include media(mobile) {
+          padding-left: 15%;
+        }
+      }
+
+    }
+
+    .guidance {
+      @if $is-print == true {
+        display: none;
+      }
+      @include media(mobile) {
+        margin-top: 1em;
+        padding-left: 15%;
+      }
+      @include media(tablet) {
+        float: right;
+        margin-left: 10%;
+        width: 23%;
+      }
+      p{
+        font-size: 16px;
+      }
+
+      ul {
+        margin: 0;
+        padding-left: 0;
+
+        li {
+          margin-left: 0;
+          font-size: 16px;
+          list-style: none;
+          overflow: hidden;
+          padding: 0.5em 0 0 0;
+
+          &:first-child {
+            border: none;
+            margin-top: 0;
+          }
+        }
+      }
+    }
+
+  }
+
+  // The updated list of criteria
+  .updated-standard {
+    li {
+      .point {
+        // Increase width of point wrapper for tablet and up
+        @include media(tablet) {
+          width: 67%;
+        }
+      }
+    }
+  }
+
+  .link-list {
+    padding-bottom: 2em;
+
+    li {
+      a {
+        width: auto;
+      }
+    }
+  }
+
+  // Digital by Default downloads
+  .dbd-downloads {
+
+    h2 {
+      margin-bottom: 30px;
+      padding-bottom: 10px;
+
+      border-bottom: 5px solid #df3034;
+    }
+
+    ul {
+      padding-left: 0;
+    }
+
+    li,
+    .download {
+      display: block;
+
+      font-weight: 600;
+      background: url('/service-manual/assets/images/icon-file-download.png') 0 0 no-repeat;
+      background-size: 25px 25px;
+
+      min-height: 40px;
+      margin-left: 0;
+      padding: 0 0 0 40px;
+
+    }
+  }
+
+  @if $is-print == true {
+      a {
+        text-decoration: none;
+      }
+      a:after {
+        content: "";
+      }
+    }
+
+
+  .print-footer{
+    @if $is-print == false {
+      display: none;
+    } @else {
+      border-top: 5px solid $main-colour;
+      @include core-24;
+      padding-top: 1em;
+      margin-top: 1em;
+    }
+  }
+
+}

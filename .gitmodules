@@ -1,0 +1,3 @@
+[submodule "service-manual/assets/toolkit"]
+	path = service-manual/assets/toolkit
+	url = https://github.com/lgss/lgss-frontend-toolkit.git
