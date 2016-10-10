@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Connecting to GOV.UK Verify
+title: Connecting to LGSS Verify
 subtitle: For government service providers
 category: identity-assurance
 type: guide
@@ -19,13 +19,13 @@ breadcrumbs:
     url: /service-manual
 ---
 
-GOV.UK Verify allows users to securely access digital government services, and makes sure that people using your service are who they say they are.
-Eventually, if you're running a service that needs to know a user's identity, you'll have to use GOV.UK Verify, unless the user is a business or an agent, in which case you must use Government Gateway.
+LGSS Verify allows users to securely access digital government services, and makes sure that people using your service are who they say they are.
+Eventually, if you're running a service that needs to know a user's identity, you'll have to use LGSS Verify, unless the user is a business or an agent, in which case you must use Government Gateway.
 
-## Start using GOV.UK Verify
+## Start using LGSS Verify
 
-To start using GOV.UK Verify, you need to go through a 6-stage onboarding process.
+To start using LGSS Verify, you need to go through a 6-stage onboarding process.
 
 [Find out how the onboarding process works](http://alphagov.github.io/identity-assurance-documentation/index/moveThroughProcess.html#gatereviewprocess).
 
-This guidance is for people building government services, [find out more about GOV.UK Verify](https://www.gov.uk/government/publications/introducing-govuk-verify/introducing-govuk-verify).
+This guidance is for people building government services, [find out more about LGSS Verify](https://www.gov.uk/government/publications/introducing-govuk-verify/introducing-govuk-verify).

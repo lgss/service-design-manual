@@ -48,7 +48,7 @@ This also helps people decide on a username. It's particularly important to tell
 
 If your service has users with low digital skills or low confidence online, then consider asking for the username and for the password on separate pages.
 
-In research for GOV.UK Verify we found that:
+In research for LGSS Verify we found that:
 
 * people with high digital skills did not notice that the two questions were separated, and completed them easily
 * people with low digital skills found the questions much easier when they could concentrate on them one at a time

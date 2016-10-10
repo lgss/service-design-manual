@@ -27,11 +27,11 @@ Tracking user satisfaction can help make sure the changes you make are improving
 
 ## How to measure user satisfaction
 
-1. Get a [Feedback page](/service-manual/user-centred-design/resources/patterns/feedback-pages.html) on GOV.UK -- [request a content change](https://support.production.alphagov.co.uk/)
+1. Get a [Feedback page](/service-manual/user-centred-design/resources/patterns/feedback-pages.html) on LGSS -- [request a content change](https://support.production.alphagov.co.uk/)
 2. Add links from your service to the feedback page (more details below)
 3. Use the [Feedback Explorer](https://support.production.alphagov.co.uk/anonymous_feedback/explore) to see feedback on your service
 
-![A Feedback page on GOV.UK](/service-manual/assets/images/feedback-page.png)
+![A Feedback page on LGSS](/service-manual/assets/images/feedback-page.png)
 
 ## Measure satisfaction across the whole service
 

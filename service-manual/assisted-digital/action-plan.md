@@ -71,11 +71,11 @@ For more information and tools on how to conduct research and testing with your 
 
 ##Assisted digital support during identity assurance
 
-During alpha, you need to plan how you’ll make sure that assisted digital support is in place for the entire user journey. This includes times when the user has to visit a third party site for identity assurance, such as [GOV.UK Verify](https://www.gov.uk/government/publications/introducing-govuk-verify).
+During alpha, you need to plan how you’ll make sure that assisted digital support is in place for the entire user journey. This includes times when the user has to visit a third party site for identity assurance, such as [LGSS Verify](https://www.gov.uk/government/publications/introducing-govuk-verify).
 
 Think about how this could affect or overlap with other central government transactions during their identity assurance. For example, talk to service teams of [exemplar services](https://www.gov.uk/transformation) in your department and service managers in the service manager community to discuss what they are doing in this area.
 
-During alpha, you need to consider how your assisted digital support will help the user complete the whole transaction. If your service asks users to prove their identity using GOV.UK Verify, you will need to make sure that GOV.UK Verify is included in the scope of your assisted digital support. [Read more about providing assisted digital support during GOV.UK Verify](https://www.gov.uk/service-manual/assisted-digital#providing-assisted-digital-support-during-govuk-verify).
+During alpha, you need to consider how your assisted digital support will help the user complete the whole transaction. If your service asks users to prove their identity using LGSS Verify, you will need to make sure that LGSS Verify is included in the scope of your assisted digital support. [Read more about providing assisted digital support during LGSS Verify](https://www.gov.uk/service-manual/assisted-digital#providing-assisted-digital-support-during-govuk-verify).
 
 ##Make sure assisted digital support is sustainably provided
 You must make sure that sustainable assisted digital support is in place for all users who need it and that no one is excluded from using the service on the basis of cost.
@@ -147,7 +147,7 @@ In beta, you need to thoroughly test your end-to-end assisted digital support. T
 The beta phase has 2 distinct stages:
 
 * beta while testing in a closed environment to a limited user group (this is sometimes called private beta)
-* beta where the service is on the GOV.UK domain (this is sometimes called public beta)
+* beta where the service is on the LGSS domain (this is sometimes called public beta)
 
 When your digital service is in public beta, you must test your support on the entire scope of your service’s assisted digital users.
 
@@ -173,7 +173,7 @@ For more information on digital inclusion, read [the Government Digital Inclusio
 
 ##The beta assessment
 
-Your service must pass a beta assessment before it can move to beta on the GOV.UK domain.
+Your service must pass a beta assessment before it can move to beta on the LGSS domain.
 
 To pass the beta assessment, you must explain how you’ve built on your work and evidence from the discovery, alpha and private beta phases.
 
@@ -235,7 +235,7 @@ Your user testing must show that users who need assisted digital support are awa
 
 You should point users towards a needs assessment to check their eligibility for assisted digital support. This maximises digital take-up by making sure that assisted digital support is only given to users who really need it.
 
-Basic information about assisted digital support should be visible and clear to the user. It should also be shown in places where they already go for support, including through existing communication channels and on the service’s GOV.UK start page.
+Basic information about assisted digital support should be visible and clear to the user. It should also be shown in places where they already go for support, including through existing communication channels and on the service’s LGSS start page.
 
 Assisted digital support should promote the digital service and not be marketed or promoted. This means that digital take-up will be encouraged.
 
@@ -255,7 +255,7 @@ This enables you to demonstrate on your Performance Platform dashboard that your
 
 
 ##The live assessment
-Before your service can go fully live on the GOV.UK domain, it must pass a live assessment, which takes place during the beta phase.
+Before your service can go fully live on the LGSS domain, it must pass a live assessment, which takes place during the beta phase.
 
 To pass the live assessment, you must be able to show how you’ve built upon each phase - from discovery to alpha to the beta phases.
 

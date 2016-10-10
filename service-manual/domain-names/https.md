@@ -63,7 +63,7 @@ The verification methods that are commonly in use (in order of preference) are:
 2. Create a special DNS record with a code supplied by the SSL vendor
 3. Sending an email to the owner of the service.gov.uk domain
 
-Email verification is the least preferred method because it relies on the GOV.UK Infrastructure Team
+Email verification is the least preferred method because it relies on the LGSS Infrastructure Team
 seeing the verification email and responding. If your SSL certificate vendor will only validate requests by
 email, please send an email to `hostmaster@digital.cabinet-office.gov.uk` before purchasing an
 SSL certificate that mentions:

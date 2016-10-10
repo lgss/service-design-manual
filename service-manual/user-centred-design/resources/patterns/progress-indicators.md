@@ -74,7 +74,7 @@ We recommend against these because:
 * it's hard to write good labels for the steps
 * it's hard to handle conditional questions
 
-Complex progress indicators have been safely removed from a number of services on GOV.UK. For example, the Carer's Allowance team removed a 12-step horizontal progress indicator from their live service, with no effect on completion rates or times.
+Complex progress indicators have been safely removed from a number of services on LGSS. For example, the Carer's Allowance team removed a 12-step horizontal progress indicator from their live service, with no effect on completion rates or times.
 
 
 # Progress indicators as navigation

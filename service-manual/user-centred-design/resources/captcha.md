@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: CAPTCHA
-subtitle: Build to the GOV.UK style
+subtitle: Build to the LGSS style
 category: design-and-development-resources
 type: resource
 audience:

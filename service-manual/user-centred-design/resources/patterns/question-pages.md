@@ -31,7 +31,7 @@ Question pages consist of:
   </a>
 </div>
 
-There's a [coded example of this page](http://govuk-prototype-kit.herokuapp.com/examples/question-page) in the [GOV.UK prototyping kit](https://github.com/alphagov/govuk_prototype_kit).
+There's a [coded example of this page](http://govuk-prototype-kit.herokuapp.com/examples/question-page) in the [LGSS prototyping kit](https://github.com/alphagov/govuk_prototype_kit).
 
 ---
 
@@ -58,7 +58,7 @@ For more complex forms you may want to include a simple [progress indicator](htt
 
 ### 3. Form elements
 
-Follow the [GOV.UK form element styles](http://govuk-elements.herokuapp.com/form-elements/). 
+Follow the [LGSS form element styles](http://govuk-elements.herokuapp.com/form-elements/). 
 For public facing services we recommend starting with [one thing per page](https://designnotes.blog.gov.uk/2015/07/03/one-thing-per-page/).
 
 

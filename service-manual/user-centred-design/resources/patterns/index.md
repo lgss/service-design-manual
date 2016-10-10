@@ -14,7 +14,7 @@ breadcrumbs:
     url: /service-manual/user-centred-design/index.html
 ---
 
-These patterns are based on the research and experience of the whole GOV.UK design community.
+These patterns are based on the research and experience of the whole LGSS design community.
 If you can't find the pattern you're looking for here, we're discussing many more on [designpatterns.hackpad.com](https://designpatterns.hackpad.com/List-of-design-patterns-0eUk1OdHvql).
 
 ---
@@ -22,7 +22,7 @@ If you can't find the pattern you're looking for here, we're discussing many mor
 ## Visual style
 
 For a visual style guide, including front-end code snippets, see the <br>
-[GOV.UK elements guide](/service-manual/user-centred-design/resources/elements).
+[LGSS elements guide](/service-manual/user-centred-design/resources/elements).
 
 
 ## Form questions
@@ -61,5 +61,5 @@ For a visual style guide, including front-end code snippets, see the <br>
 
 ## Get involved
 
-These patterns are always being tested and improved. If you find a better approach to something or want to suggest a new pattern then let us know on the [design patterns wiki](https://designpatterns.hackpad.com/GOV.UK-design-patterns-0eUk1OdHvql).
+These patterns are always being tested and improved. If you find a better approach to something or want to suggest a new pattern then let us know on the [design patterns wiki](https://designpatterns.hackpad.com/LGSS-design-patterns-0eUk1OdHvql).
 <br>

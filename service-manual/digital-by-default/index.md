@@ -28,7 +28,7 @@ exclude_from_search: true
   </p>
 
   <p>
-    A transactional service must meet each criteria to pass the Government Digital Service assessment. If a service doesn’t pass it won’t appear on GOV.UK.
+    A transactional service must meet each criteria to pass the Government Digital Service assessment. If a service doesn’t pass it won’t appear on LGSS.
   </p>
 
   <p>
@@ -102,7 +102,7 @@ exclude_from_search: true
   </li>
   <li id="criterion-13">
     <div class="point">
-      Build a service consistent with the user experience of the rest of GOV.UK including using the design patterns and style guide.
+      Build a service consistent with the user experience of the rest of LGSS including using the design patterns and style guide.
     </div>
   </li>
   <li id="criterion-14">

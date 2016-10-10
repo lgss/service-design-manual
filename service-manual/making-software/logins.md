@@ -62,9 +62,9 @@ It's probably safe to carry on if you're building a service for a small number o
   * unusually high numbers of failed login attempts over a short period of time
   * a sequence of failed logins on a given account over a long period of time
 * separate user data from other data you hold to avoid collecting a large amount of identifiable information
-* swap to a new identity system, like the [GOV.UK Verify](/service-manual/identity-assurance) scheme, without invasive changes to the rest of your codebase
+* swap to a new identity system, like the [LGSS Verify](/service-manual/identity-assurance) scheme, without invasive changes to the rest of your codebase
 
-Read the [advice published by the GOV.UK Verify](/service-manual/identity-assurance) if you need to:
+Read the [advice published by the LGSS Verify](/service-manual/identity-assurance) if you need to:
 
 * build a system for a broad range of citizens and businesses
 * do sophisticated matching with other systems so you can build confidence in the identity of your users
@@ -80,7 +80,7 @@ of letters, numbers and symbols, but ideally they'll be longer than that. We
 refer to passphrases as a phrase is usually easier to remember but harder to
 guess than a short collection of symbols or a single word.
 
-> For some admin systems on GOV.UK we use the
+> For some admin systems on LGSS we use the
   [zxcvbn](https://github.com/dropbox/zxcvbn)
   library that measures how hard it would be for a computer to crack a
   passphrase using brute-force methods. That library is used to validate
@@ -98,7 +98,7 @@ especially important when logging in.
 The Electronic License Management System (ELMS) license application system
 on Business Link required a login to complete an application. In building
 a new version of the system for
-[GOV.UK](https://www.gov.uk/browse/business/licences) we removed that
+[LGSS](https://www.gov.uk/browse/business/licences) we removed that
 requirement and usage rates have increased considerably. There's still a
 login system for approved users in local authorities who need to process
 those applications.

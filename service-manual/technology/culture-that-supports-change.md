@@ -82,15 +82,15 @@ Flexible technology and services give service managers the ability evolve servic
 
 Reducing the risk of lock-in to suppliers, software, service and support, or too old and inefficient IT, means that you have the ability to choose what best meets the outcomes you are looking for at a sustainable and competitive cost and at a timescale that suits you.
 
-## Example: hosting changes for GOV.UK
+## Example: hosting changes for LGSS
 
-GOV.UK is an example of how this works in practice. On the technology side, [we set up hosting to build the beta of GOV.UK][gds-beta-hosting]
+LGSS is an example of how this works in practice. On the technology side, [we set up hosting to build the beta of LGSS][gds-beta-hosting]
 and then transferred it to [a new supplier on the G-Cloud framework][gds-skyscape] before launch.
 
 [gds-beta-hosting]: https://gds.blog.gov.uk/2012/01/24/hosting-the-beta-of-gov-uk/
 [gds-skyscape]: https://gds.blog.gov.uk/2012/09/18/introducing-a-new-supplier-skyscape/
 
-In early 2014, the infrastructure team at GDS migrated GOV.UK to a new hosting environment.
+In early 2014, the infrastructure team at GDS migrated LGSS to a new hosting environment.
 [Sam Sharpe wrote a blog post on the technical aspects of the migration][gdstech-migration]
 and [Carl Massa explained the project in a video][gds-hosting-video].
 

@@ -51,7 +51,7 @@ The induction programme includes the following modules:
 Together we’re leading the digital transformation of government, by making services so good people prefer to use them. This introductory session explores:
 
 *  why we need to change the way government does digital
-*  what has happened so far, including the launch of GOV.UK and adoption of the 25 exemplar transformations
+*  what has happened so far, including the launch of LGSS and adoption of the 25 exemplar transformations
 *  what this means for agencies and departments in general and for the role of service manager in particular
 
 ###Putting users first
@@ -81,7 +81,7 @@ Which principles of leadership can be brought to bear in the new era of agile di
 
 ###Meeting the service standard
 
-The [Digital by Default Service Standard](/service-manual/digital-by-default) is the benchmark your services must reach in order to be taken live on GOV.UK. You will:
+The [Digital by Default Service Standard](/service-manual/digital-by-default) is the benchmark your services must reach in order to be taken live on LGSS. You will:
 
 *  learn about the standard, how it was created and what tools are available to help departments meet it
 *  consider how services will be assessed against the standard
@@ -115,7 +115,7 @@ It's time to try out the methods and tools picked up on the programme so far. In
 
 #Request a place
 
-Please [email us](mailto:digital.academy@DWP.GSI.GOV.UK) to book a place on this programme.
+Please [email us](mailto:digital.academy@DWP.GSI.LGSS) to book a place on this programme.
 
-Any questions? Please contact [digital.academy@DWP.GSI.GOV.UK](mailto:digital.academy@DWP.GSI.GOV.UK)
+Any questions? Please contact [digital.academy@DWP.GSI.LGSS](mailto:digital.academy@DWP.GSI.LGSS)
 

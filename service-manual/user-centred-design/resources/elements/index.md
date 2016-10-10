@@ -1,6 +1,6 @@
 ---
 layout: category-index
-title: GOV.UK elements
+title: LGSS elements
 subtitle: Layout, typography, colour, images, icons, forms, buttons and data
 category: user-centred-design
 type: resource
@@ -18,9 +18,9 @@ breadcrumbs:
 ---
 
 {:.intro}
-This guide shows how to make your service look consistent with the rest of GOV.UK.
+This guide shows how to make your service look consistent with the rest of LGSS.
 
 It includes example code and guidance for layout, typography, colour, images, icons, forms, buttons and data.
-It's currently in alpha and not hosted on GOV.UK.
+It's currently in alpha and not hosted on LGSS.
 
-<p><strong><a href="http://govuk-elements.herokuapp.com/" rel="external">Go to the GOV.UK elements guide</a></strong></p>
+<p><strong><a href="http://govuk-elements.herokuapp.com/" rel="external">Go to the LGSS elements guide</a></strong></p>

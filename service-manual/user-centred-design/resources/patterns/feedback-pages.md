@@ -13,15 +13,15 @@ breadcrumbs:
     url: /service-manual/user-centred-design/resources/patterns/index.html
 ---
 
-## GOV.UK Feedback pages
+## LGSS Feedback pages
 
-All digital services that government provides must have a Feedback page on GOV.UK. Every service must link to their Feedback page to collect [user satisfaction](/service-manual/measurement/user-satisfaction.html) and feedback.
+All digital services that government provides must have a Feedback page on LGSS. Every service must link to their Feedback page to collect [user satisfaction](/service-manual/measurement/user-satisfaction.html) and feedback.
 
-![A Feedback page on GOV.UK](/service-manual/assets/images/feedback-page.png)
+![A Feedback page on LGSS](/service-manual/assets/images/feedback-page.png)
 
-Feedback pages are hosted on GOV.UK. This is so satisfaction scores can be compared across services.
+Feedback pages are hosted on LGSS. This is so satisfaction scores can be compared across services.
 
-To get a Feedback page on GOV.UK -- [request a content change](https://support.production.alphagov.co.uk/).
+To get a Feedback page on LGSS -- [request a content change](https://support.production.alphagov.co.uk/).
 
 ## Further discussion
 

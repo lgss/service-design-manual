@@ -47,11 +47,11 @@ managers in your organisation. Frequent deployments allow the product
 managers to get things right in a timely fashion: both fixing bugs and
 releasing new features. 
 
-Roo Reynolds, GOV.UK mainstream product
+Roo Reynolds, LGSS mainstream product
 manager, said that "Deploying once a week would be frighteningly
 slow." 
 
-The GOV.UK site design has changed radically 4 times since
+The LGSS site design has changed radically 4 times since
 its public release in October 2012. This was enabled in part by
 frequent releases enabling rapid gathering of feedback and responding
 to change.

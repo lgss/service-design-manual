@@ -17,7 +17,7 @@ breadcrumbs:
     url: /service-manual/digital-by-default
 ---
 
-The launch of a service on GOV.UK is only the beginning. Once it has been released, users become the arbiters of its quality. Having designed the service to be iteratively developed using performance data and user research, service teams will have all the tools and techniques they need to continuously improve what they offer. Performance against the 4 key indicators will be tracked and publicly displayed.
+The launch of a service on LGSS is only the beginning. Once it has been released, users become the arbiters of its quality. Having designed the service to be iteratively developed using performance data and user research, service teams will have all the tools and techniques they need to continuously improve what they offer. Performance against the 4 key indicators will be tracked and publicly displayed.
 
 To keep to the standard, your team must:
 

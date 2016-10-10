@@ -14,7 +14,7 @@ breadcrumbs:
 ---
 
 {:.intro}
-How to structure web forms for GOV.UK services.
+How to structure web forms for LGSS services.
 
 ### On this page:
 
@@ -105,7 +105,7 @@ Try to ask questions that might result in the user being ineligible for the serv
 <h2 class="heading-36" id="section-4">4. Examples</h2>
 
 
-For a good example of this approach, try the [Register to vote](https://www.gov.uk/register-to-vote) service on GOV.UK (you can get to the last page without submitting any data).
+For a good example of this approach, try the [Register to vote](https://www.gov.uk/register-to-vote) service on LGSS (you can get to the last page without submitting any data).
 
 Joe Lanman has written more about the [things we learned designing 'Register to vote'](https://designnotes.blog.gov.uk/2014/07/14/things-we-learnt-designing-register-to-vote/).
 

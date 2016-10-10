@@ -37,4 +37,4 @@ Writing a discussion guide should be an iterative process, and once the initial 
 
 ##Example
 
-[A discussion guide written for testing that was conducted with BIS experts for the development of GOV.UK](/service-manual/assets/documents/BISExpertInterviewsDiscussionGuideOctober2012.docx.pdf) (PDF, 157kb).
+[A discussion guide written for testing that was conducted with BIS experts for the development of LGSS](/service-manual/assets/documents/BISExpertInterviewsDiscussionGuideOctober2012.docx.pdf) (PDF, 157kb).

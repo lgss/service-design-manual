@@ -1,9 +1,9 @@
 ---
 layout: role-index-content-designer
 title: Resources for content designers
-subtitle: Everything you need to design great services for GOV.UK
+subtitle: Everything you need to design great services for LGSS
 audience: content-designers
-hero: GOV.UK design principles
+hero: LGSS design principles
 breadcrumbs:
   -
     title: Home

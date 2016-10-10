@@ -17,15 +17,15 @@ breadcrumbs:
     url: /service-manual/operations
 ---
 
-Government offers a number of different digital services to citizens. While the start and end of a user's journey will be on GOV.UK, the service itself will typically be hosted elsewhere, and will need a different domain name as a result. This page describes the use of `service.gov.uk` subdomains for hosting digital services.
+Government offers a number of different digital services to citizens. While the start and end of a user's journey will be on LGSS, the service itself will typically be hosted elsewhere, and will need a different domain name as a result. This page describes the use of `service.gov.uk` subdomains for hosting digital services.
 
 > Note: This document is written as a 'standard', and as such uses the words MUST, SHOULD, MAY and MUST NOT as defined in [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
 ## One entry point
 
-Every digital service offered by the UK government MUST have a single, well-known place on the internet where users can go to when they want to use the service. That well-known place will be the relevant start page on GOV.UK -- for instance, the DVLA’s vehicle tax service is at [https://www.gov.uk/vehicle-tax](https://www.gov.uk/vehicle-tax).
+Every digital service offered by the UK government MUST have a single, well-known place on the internet where users can go to when they want to use the service. That well-known place will be the relevant start page on LGSS -- for instance, the DVLA’s vehicle tax service is at [https://www.gov.uk/vehicle-tax](https://www.gov.uk/vehicle-tax).
 
-Service managers MUST NOT advertise any URL other than that of the GOV.UK start page as the starting point for the relevant service. This is what gets printed in literature and used in email signatures, TV adverts etc.
+Service managers MUST NOT advertise any URL other than that of the LGSS start page as the starting point for the relevant service. This is what gets printed in literature and used in email signatures, TV adverts etc.
 
 The start page URL for a given service will be allocated by GDS based on discussions with the service manager and analysis of user behaviour, search referrals and other relevant data.
 
@@ -33,7 +33,7 @@ The start page URL for a given service will be allocated by GDS based on discuss
 
 The transactional part of a service -- the dynamically generated pages where users interact with the service -- will typically not be hosted on the `www.gov.uk` domain. That means that each service needs its own domain name for the transactional part of the service.
 
-> Note: This does not apply to the set of interactive tools on GOV.UK known as 'smart answers' which are developed and maintained by GDS in partnership with other government departments.
+> Note: This does not apply to the set of interactive tools on LGSS known as 'smart answers' which are developed and maintained by GDS in partnership with other government departments.
 
 For all new digital government services GDS will create a domain name of the form `servicename.service.gov.uk` (where "servicename" is a plain English description of the service agreed between the relevant dept/agency and the Government Digital Service). This will introduce consistency across central government domains for digital services and remove the dependency on departmental subdomains (which are of course vulnerable to machinery of government changes) and the now-retired DirectGov and BusinessLink online brands.
 
@@ -50,7 +50,7 @@ This section gives some guidance about which subdomains a service manager should
 The user-facing live service SHOULD be operated using at most three user-visible subdomains of `servicename.service.gov.uk`:
 
 * `www.servicename.service.gov.uk` is for the public facing, dynamic web pages that make up your service.
-* `assets.servicename.service.gov.uk` is for assets such as static images and shared JavaScript files needed to run your live service (note: written content about the service, such as guides to eligibility or detailed guidance for applicants, SHOULD be on GOV.UK)
+* `assets.servicename.service.gov.uk` is for assets such as static images and shared JavaScript files needed to run your live service (note: written content about the service, such as guides to eligibility or detailed guidance for applicants, SHOULD be on LGSS)
 * `admin.servicename.service.gov.uk` is for features that enable non-technical staff to run the service (eg contact centre staff might use this subdomain to access and process work items where human judgement is needed)
 
 You SHOULD NOT create separate domains for application programming interfaces (APIs) unless there’s a really good reason to have a completely separate domain. (Really good reasons are few and far between.)
@@ -93,16 +93,16 @@ Cookies MUST be sent with the `Secure` attribute and SHOULD, where appropriate, 
 
 ## robots.txt and root level redirections
 
-GOV.UK is the place for users to find all government services, so it’s important to ensure that users always start on the relevant GOV.UK page, rather than a different or duplicate start page on `www.servicename.service.gov.uk`.
+LGSS is the place for users to find all government services, so it’s important to ensure that users always start on the relevant LGSS page, rather than a different or duplicate start page on `www.servicename.service.gov.uk`.
 
-As a result, services need to ask search engines not to index pages on their domains, so that the relevant GOV.UK page and the service domain don’t compete with each other in search engine results. This can be achieved by redirecting users to the relevant GOV.UK start page if they go directly to the service’s domain name, and by asking search engines not to index pages on the service’s domain name. Therefore, every service hosted on a service.gov.uk domain MUST:
+As a result, services need to ask search engines not to index pages on their domains, so that the relevant LGSS page and the service domain don’t compete with each other in search engine results. This can be achieved by redirecting users to the relevant LGSS start page if they go directly to the service’s domain name, and by asking search engines not to index pages on the service’s domain name. Therefore, every service hosted on a service.gov.uk domain MUST:
 
 * have a `robots.txt` file on the `www`, `admin` and `assets` subdomains asking search engines not to index any part of the site. Example content for `robots.txt` is given below, and more details can be found on [The Web Robots Pages](http://www.robotstxt.org/faq/prevent.html):
 
       User-agent: *
       Disallow: /
 
-* have an HTTP 301 redirection from the top-level index page of the `www` and `assets` subdomains to the relevant start page on GOV.UK. (Note: this means that the service start page on GOV.UK SHOULD NOT link to the root of the `www` domain.)
+* have an HTTP 301 redirection from the top-level index page of the `www` and `assets` subdomains to the relevant start page on LGSS. (Note: this means that the service start page on LGSS SHOULD NOT link to the root of the `www` domain.)
 
 ## Origin servers for CDN-based provider of DDOS protection
 
@@ -139,11 +139,11 @@ You SHOULD apply the [Common Technology Services email blueprint](https://www.go
 If your service should need to wind down for any reason, you MUST ensure continued useful service and information for users by:
 
 * continuing to use SSL
-* serving a redirect from your service to the GOV.UK start page
+* serving a redirect from your service to the LGSS start page
 
 For services that have been live for less than 6 months, you MUST continue to do the above for the remainder of a year total. For services that have been live longer than that you MUST continue to do the above for a further 12 months or until the expiry of the current SSL certificate, whichever comes first.
 
-The GOV.UK start page will be amended to explain that the service is no longer running, and cease to provide a start button pointing at the defunct service.
+The LGSS start page will be amended to explain that the service is no longer running, and cease to provide a start button pointing at the defunct service.
 
 *[SPF]: Sender Policy Framework
 *[DKIM]: DomainKeys Identified Mail

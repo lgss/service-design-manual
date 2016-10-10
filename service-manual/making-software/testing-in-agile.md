@@ -132,7 +132,7 @@ There are external companies who provide this as a service, but GDS do it intern
 Examples of where GDS used this effectively include:
 
 * the pre-release testing of additional devices/browsers
-* the detailed checking of hundreds of pieces of content on GOV.UK against old content on DirectGov and BusinessLink
+* the detailed checking of hundreds of pieces of content on LGSS against old content on DirectGov and BusinessLink
 
 ### Test your ideas
 Don’t forget, don’t just test the product itself -- test your ideas.   For information on how to do this read [the guidance about user research](/service-manual/user-centred-design/user-research/index.html).

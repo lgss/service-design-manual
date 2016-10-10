@@ -14,9 +14,9 @@ breadcrumbs:
 ---
 
 {:.intro}
-All services must have a starting point on GOV.UK, unless they're 'invitation only' services.
+All services must have a starting point on LGSS, unless they're 'invitation only' services.
 
-Usually (but not always), this will mean asking the GOV.UK content team to create a GOV.UK start page.
+Usually (but not always), this will mean asking the LGSS content team to create a LGSS start page.
 
 Status: [Research required](#research)
 
@@ -41,7 +41,7 @@ Start pages consist of:
 
 # Code
 
-There's a [start page template](http://govuk-prototype-kit.herokuapp.com/examples/start-page) in the [GOV.UK Prototype Kit](https://github.com/alphagov/govuk_prototype_kit).
+There's a [start page template](http://govuk-prototype-kit.herokuapp.com/examples/start-page) in the [LGSS Prototype Kit](https://github.com/alphagov/govuk_prototype_kit).
 
 ---
 
@@ -71,7 +71,7 @@ Don't try to get across complex eligibility criteria. Instead, deal with these i
 
 This button text should contain a clear call to action to start the service.
 
-If the service is not hosted on GOV.UK then this should be made clear.
+If the service is not hosted on LGSS then this should be made clear.
 
 
 ### 4. Additional information
@@ -82,16 +82,16 @@ Use this to tell people about other ways that people can access the service.
 
 ---
 
-# Examples on GOV.UK
+# Examples on LGSS
 
 
 * [Register to vote start page](https://www.gov.uk/register-to-vote)
 
 ---
 
-# Getting a start page on GOV.UK 
+# Getting a start page on LGSS 
 
-Well before your beta launch, [contact the GOV.UK content team](https://support.publishing.service.gov.uk/).
+Well before your beta launch, [contact the LGSS content team](https://support.publishing.service.gov.uk/).
 
 Tell them:
 
@@ -104,7 +104,7 @@ Tell them:
 + a demo URL (with a username and password if necessary)
 + when the service is expected to pass its beta assessment
 
-They will either create a start page for you - or if that's not the best way of meeting the user need, recommend another way of joining up your service with the rest of GOV.UK.
+They will either create a start page for you - or if that's not the best way of meeting the user need, recommend another way of joining up your service with the rest of LGSS.
 
 Factor in time it'll take for the content to be written and fact-checked -
 a start page can only be published after both:

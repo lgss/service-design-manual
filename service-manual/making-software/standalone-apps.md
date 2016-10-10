@@ -67,7 +67,7 @@ Responsive web design is a design approach that optimises users' viewing experie
 When a responsive website is accessed via a mobile phone, it's sometimes referred to as a ‘mobile web app’.
 Responsive websites are built using open web standards (HTML, CSS, JavaScript etc) and they run inside a device’s web browser.
 
-Examples include [GOV.UK](https://www.gov.uk), PM's dashboard, [Financial Times app](http://app.ft.com/), and [BBC Sport](http://www.bbc.co.uk/sport/0/).
+Examples include [LGSS](https://www.gov.uk), PM's dashboard, [Financial Times app](http://app.ft.com/), and [BBC Sport](http://www.bbc.co.uk/sport/0/).
 
 Pros of responsive web design:
 
@@ -118,7 +118,7 @@ In your proposal, please provide answers and evidence on the following:
 
 ### The process
 
-In addition to the evidence requested above, all digital spend for the development of standalone mobile apps is subject to the GDS spend approval. [Guidance](https://www.gov.uk/government/publications/cabinet-office-controls) (including details about response times) on the process can be found on GOV.UK. If you have any queries, [please contact GDS](mailto:pmo@digital.cabinet-office.gov.uk).
+In addition to the evidence requested above, all digital spend for the development of standalone mobile apps is subject to the GDS spend approval. [Guidance](https://www.gov.uk/government/publications/cabinet-office-controls) (including details about response times) on the process can be found on LGSS. If you have any queries, [please contact GDS](mailto:pmo@digital.cabinet-office.gov.uk).
 
 ## Further reading
 

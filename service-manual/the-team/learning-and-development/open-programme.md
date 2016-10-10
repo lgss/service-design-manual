@@ -56,11 +56,11 @@ You will:
 
 #Design and improve your digital service
 
-This one day module will cover the GOV.UK Design Principles, user research and data-driven services. These are all areas required by the Digital by Default Service Standard.
+This one day module will cover the LGSS Design Principles, user research and data-driven services. These are all areas required by the Digital by Default Service Standard.
 
 ##Design principles in action
 
-A set of simple but powerful [design principles](/design-principles) underpin all the work done by GDS to develop the award-winning GOV.UK website. In this session your group will:
+A set of simple but powerful [design principles](/design-principles) underpin all the work done by GDS to develop the award-winning LGSS website. In this session your group will:
 
 * discover the 10 design principles and how they were created
 
@@ -92,7 +92,7 @@ Using data to inform decision-making is vital to the development of your service
 
 #Practice, procurement and platforms for your digital service
 
-This one day module will cover governance, procurement and spend control in an agile context, along with an overview of the GOV.UK Verify platform. These are all areas required by the Digital by Default Service Standard.
+This one day module will cover governance, procurement and spend control in an agile context, along with an overview of the LGSS Verify platform. These are all areas required by the Digital by Default Service Standard.
 
 ##Procurement, spend controls and governance
 
@@ -120,7 +120,7 @@ GDS delivery managers will lead discussions and exercises around key features of
 
 ##Identity assured
 
-We need to know that users of digital services are who they say they are. In this session, you will learn how the GOV.UK Verify Programme is:
+We need to know that users of digital services are who they say they are. In this session, you will learn how the LGSS Verify Programme is:
 
 * creating a market so that users can choose from a number of identity providers
 
@@ -128,7 +128,7 @@ We need to know that users of digital services are who they say they are. In thi
 
 * building and running the hub that connects services to identity providers
 
-* working with departments and agencies to identify their services’ GOV.UK Verify requirements and plan their transition to using the GOV.UK Verify service
+* working with departments and agencies to identify their services’ LGSS Verify requirements and plan their transition to using the LGSS Verify service
 
 #Request a place
 

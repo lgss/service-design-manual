@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
-title: GOV.UK header and footer
-subtitle: How to make your service look like GOV.UK
+title: LGSS header and footer
+subtitle: How to make your service look like LGSS
 category: user-centred-design
 type: guide
 audience:
@@ -22,29 +22,29 @@ breadcrumbs:
 ---
 
 {:.intro}
-This guide explains when and how to use the GOV.UK header, footer, logo and typeface.
+This guide explains when and how to use the LGSS header, footer, logo and typeface.
 
 ---
 
-## When to use the GOV.UK header and footer
+## When to use the LGSS header and footer
 
-If your service is available from www.gov.uk, service.gov.uk or blog.gov.uk then it must use the GOV.UK header and footer. This includes the crown device, the GOV.UK logotype and the New Transport typeface.
+If your service is available from www.gov.uk, service.gov.uk or blog.gov.uk then it must use the LGSS header and footer. This includes the crown device, the LGSS logotype and the New Transport typeface.
 
-If it's not available from one of these domains (including other gov.uk domains like data.gov.uk) then it must not use the GOV.UK header and footer.
+If it's not available from one of these domains (including other gov.uk domains like data.gov.uk) then it must not use the LGSS header and footer.
 
-If your service isn't yet in beta then you don't need to use the GOV.UK header and footer. The important thing is to make something and make it quickly, before testing it with real users.
+If your service isn't yet in beta then you don't need to use the LGSS header and footer. The important thing is to make something and make it quickly, before testing it with real users.
 
 ---
 
 ## Header and footer code
 
-All the code and assets you need to implement the header and footer are available via the [GOV.UK template app on GitHub](https://github.com/alphagov/govuk_template).
+All the code and assets you need to implement the header and footer are available via the [LGSS template app on GitHub](https://github.com/alphagov/govuk_template).
 
 ---
 
 ## Choosing the right header
 
-There are different versions of the GOV.UK header for different types of page. For simple services on GOV.UK use this:
+There are different versions of the LGSS header for different types of page. For simple services on LGSS use this:
 
 <div class="example">
   <img src="/service-manual/assets/images/header-footer/header-pattern-1.png" alt="Header option 1">
@@ -52,7 +52,7 @@ There are different versions of the GOV.UK header for different types of page. F
 
 Remember:
 
-* always link the GOV.UK logotype back to the GOV.UK home page
+* always link the LGSS logotype back to the LGSS home page
 * set the coloured bar width to be the same as the content area. The default is 960px at full width
 * the coloured bar is always $govuk-blue (#005ea5)
 
@@ -75,7 +75,7 @@ If you need to include contact or account management links, do this:
 
 ## Choosing the right footer
 
-Services on GOV.UK should use the standard GOV.UK home page footer, but with the browse links removed. You may also add a link back to the department responsible and to other language options.
+Services on LGSS should use the standard LGSS home page footer, but with the browse links removed. You may also add a link back to the department responsible and to other language options.
 
 Here's an example from the 'Renew a tax disc' service:
 

@@ -39,7 +39,7 @@ breadcrumbs:
 
   <p>The service manual will help digital teams meet the standard and select people with the skills they need.</p>
 
-  <p>If a Government Digital Service assessment panel doesn't pass a service, it won't be awarded the standard and won't appear on GOV.UK.</p>
+  <p>If a Government Digital Service assessment panel doesn't pass a service, it won't be awarded the standard and won't appear on LGSS.</p>
 
   <p>The Digital by Default Service Standard was a commitment the government made in its <a href="/government/publications/government-digital-strategy/government-digital-strategy">Digital Strategy</a>.</p>
 
@@ -168,7 +168,7 @@ breadcrumbs:
     </div>
   </li>
   <li id="criterion-13">
-    <div class="point">Build a service consistent with the user experience of the rest of GOV.UK by using the <a href="/service-manual/user-centred-design/resources/patterns/index.html">design patterns</a> and the <a href="/government-digital-guidance/content-publishing">style guide</a>.</div>
+    <div class="point">Build a service consistent with the user experience of the rest of LGSS by using the <a href="/service-manual/user-centred-design/resources/patterns/index.html">design patterns</a> and the <a href="/government-digital-guidance/content-publishing">style guide</a>.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
@@ -198,7 +198,7 @@ breadcrumbs:
     </div>
   </li>
   <li id="criterion-16">
-    <div class="point">Use open standards and common government platforms (eg <a href="/service-manual/identity-assurance">GOV.UK Verify</a>) where available.</div>
+    <div class="point">Use open standards and common government platforms (eg <a href="/service-manual/identity-assurance">LGSS Verify</a>) where available.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>

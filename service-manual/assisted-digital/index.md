@@ -30,14 +30,14 @@ Here you will be able to find out:
 * when you don’t need to provide assisted digital support
 * how you can provide assisted digital support, including channels, responsibilities and liabilities
 * how assisted digital, digital inclusion and digital take-up are related
-* how to provide support during GOV.UK Verify
+* how to provide support during LGSS Verify
 
 ## What is assisted digital support?
 Assisted digital support is for people who can’t use online government services on their own. The support can be someone guiding a user through the digital service or entering a user’s information into the digital service on their behalf. It can be provided by the private, voluntary or public sectors.
 
 <img src="/service-manual/assets/images/ad-image.jpg" alt="Diagram showing the digital and assisted digital routes to a digital service" />
 
-Assisted digital support must include advice on how to use the digital service. This could be information already on GOV.UK (or on an alternative domain for departments that are exempt from GOV.UK) about the service or the policy decisions behind it. The person giving assisted digital support must only need to use information already available to do their job.
+Assisted digital support must include advice on how to use the digital service. This could be information already on LGSS (or on an alternative domain for departments that are exempt from LGSS) about the service or the policy decisions behind it. The person giving assisted digital support must only need to use information already available to do their job.
 
 * is designed to meet well-researched user needs
 * helps users build the skills or confidence to use the online service independently
@@ -142,31 +142,31 @@ Some users may never develop the skills or confidence to be able to complete dig
 ###How digital take-up users are different from assisted digital users
 Unlike users who need assisted digital support and users for whom digital inclusion is appropriate, users for whom digital take-up approaches are appropriate can use online services, but prefer to use other channels, for a number of reasons. Service teams must find ways of encouraging their service’s users to user digital channels whenever possible.
 
-##Providing assisted digital support during GOV.UK Verify
-Service teams must ensure that assisted digital support is in place for the full user journey, including those that require [GOV.UK Verify](https://www.gov.uk/government/publications/introducing-govuk-verify/introducing-govuk-verify)
+##Providing assisted digital support during LGSS Verify
+Service teams must ensure that assisted digital support is in place for the full user journey, including those that require [LGSS Verify](https://www.gov.uk/government/publications/introducing-govuk-verify/introducing-govuk-verify)
 
 ###Data and privacy considerations
-During in-person or telephone support, users should type in their own information where possible. If the user cannot do this then the support provider can enter the user’s information on their behalf, as long as the user is present. Users without any internet access will not be able to use GOV.UK Verify, because they must be able to see the screen where their information is being entered. Services can not proactively ask users which company they used to verify their identity.
+During in-person or telephone support, users should type in their own information where possible. If the user cannot do this then the support provider can enter the user’s information on their behalf, as long as the user is present. Users without any internet access will not be able to use LGSS Verify, because they must be able to see the screen where their information is being entered. Services can not proactively ask users which company they used to verify their identity.
 
 ###Which companies can verify users’ identity
 Users can currently choose to verify with one or more [certified companies](https://identityassurance.blog.gov.uk/2014/12/11/what-it-means-to-be-a-certified-company/). These companies are certified by ISO and tScheme as meeting industry and government standards for security and identity assurance.
 
 These companies are certified as meeting government and industry-agreed protocols and standards. They must observe the law, for example The Data Protection Act 1998.
 
-###What users will need to complete GOV.UK Verify
+###What users will need to complete LGSS Verify
 When verifying a user's identity, the certified company will ask users to [provide evidence](https://identityassurance.blog.gov.uk/2014/11/21/how-does-a-certified-company-establish-that-its-really-you/) that proves they are who they say they are. This could include information from official documents like a passport or driving licence​.
 
 Certified companies might ask for [a range of evidence and checks](https://identityassurance.blog.gov.uk/2014/11/21/how-does-a-certified-company-establish-that-its-really-you/). No single piece of evidence is sufficient and the precise evidence required will depend on the chosen certified company.
 
 ###Support provided by certified companies
-Certified companies can provide any type of support to users, and display contact telephone numbers for this support in the user journey. However, a user may call your service directly, rather than the certified company, for help with GOV.UK Verify.
+Certified companies can provide any type of support to users, and display contact telephone numbers for this support in the user journey. However, a user may call your service directly, rather than the certified company, for help with LGSS Verify.
 
 ###Offline identity authentication routes
-GOV.UK Verify is in beta. It is being developed and expanded based on user feedback but is not able to verify everyone yet. Users who can’t be verified will need an [alternative route to access your service](https://identityassurance.blog.gov.uk/2015/07/13/basic-identity-accounts-trial-an-update/).
+LGSS Verify is in beta. It is being developed and expanded based on user feedback but is not able to verify everyone yet. Users who can’t be verified will need an [alternative route to access your service](https://identityassurance.blog.gov.uk/2015/07/13/basic-identity-accounts-trial-an-update/).
 
-An alternative (usually offline) service will be necessary for users who can not use GOV.UK Verify. This include users who:
+An alternative (usually offline) service will be necessary for users who can not use LGSS Verify. This include users who:
 
 * are under the age of 19
 * have been in the UK for less than 12 months
 
-Services currently allowing users access without using GOV.UK Verify may continue using existing identity checking methods for users who fall into the categories above.
+Services currently allowing users access without using LGSS Verify may continue using existing identity checking methods for users who fall into the categories above.

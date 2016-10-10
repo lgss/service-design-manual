@@ -26,6 +26,6 @@ They are senior civil servants (generally executive or director general level) d
 
 Digital leaders promote and encourage take up of ‘Digital by Default’ within their department, with stakeholders and customers. This means actively participating in the delivery of the Government Digital Strategy and Departmental Digital Strategy actions, ensuring these are fully embedded in the Department’s Business Plan.
 
-## GOV.UK
+## LGSS
 
-Digital leaders also act as the strategic governance mechanism for the GOV.UK domain, informing policy and strategic direction of digital.
+Digital leaders also act as the strategic governance mechanism for the LGSS domain, informing policy and strategic direction of digital.

@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: Shared asset libraries
-subtitle: How GOV.UK uses shared asset libraries, and where we provide our code
+subtitle: How LGSS uses shared asset libraries, and where we provide our code
 category: design-and-development-resources
 type: resource
 phases:
@@ -40,7 +40,7 @@ There are two more benefits to this approach:
 
 ## Where to find our code
 
-The templates on GOV.UK are constantly changing as we react to user
+The templates on LGSS are constantly changing as we react to user
 feedback and evolving best practice, so the best place to find them is
 by looking at the code we publish:
 
@@ -49,12 +49,12 @@ by looking at the code we publish:
 
 ### govuk_template
 
-The GOV.UK template is a project that provides the GOV.UK header and footer, as well as associated
+The LGSS template is a project that provides the LGSS header and footer, as well as associated
 assets. It generates a variety of output formats and you can extend it with more depending on
 the language your service is written in.
 
-GOV.UK's [static][] consumes the Ruby version of the template application, which in turn
-provides shared resources like footer links across the various frontend apps that run GOV.UK.
+LGSS's [static][] consumes the Ruby version of the template application, which in turn
+provides shared resources like footer links across the various frontend apps that run LGSS.
 
 The Performance Platform's [Node.js application][spotlight] uses the [Mustache][mustache] version of the template.
 
@@ -72,9 +72,9 @@ The service manual article on
 more information on this repository.
 
 
-GDS is continuously improving GOV.UK, which means that template and asset code changes regularly.
+GDS is continuously improving LGSS, which means that template and asset code changes regularly.
 
-All services on GOV.UK are expected to keep their templates and assets updated. How you do this will
+All services on LGSS are expected to keep their templates and assets updated. How you do this will
 depend on how your frontend is implemented, but if you include the template and the toolkit as
 dependencies in your application it should be relatively easy to update as GDS publishes new
 versions. Please contact the GDS team for help or advice.

@@ -32,7 +32,7 @@ When you’re governing the live phase of a service, you’ll need to consider:
 
 The service vision and roadmap will be stable and certain as you go into live service as you’ll have used the previous phases to thoroughly understand user needs. 
 
-Any changes to the service should be based on emerging user needs and operating context (eg legislative or technological changes, espionage or criminal threats to the service). A service being continually improved is a condition of a service being on GOV.UK.
+Any changes to the service should be based on emerging user needs and operating context (eg legislative or technological changes, espionage or criminal threats to the service). A service being continually improved is a condition of a service being on LGSS.
 
 **Review your governance arrangements**
 

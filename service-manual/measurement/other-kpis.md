@@ -39,7 +39,7 @@ Identify the various stakeholders in your organisation and prioritise their requ
 
 These needs will typically be reflected in the organisation’s business objectives or in the business case for transforming a service.
 
-An approach that worked well for GOV.UK was to run a brainstorming session to generate a long list of metrics. This list was then narrowed down by asking senior managers, 'if you had to choose one KPI, what would it be?'
+An approach that worked well for LGSS was to run a brainstorming session to generate a long list of metrics. This list was then narrowed down by asking senior managers, 'if you had to choose one KPI, what would it be?'
 
 ###Check your progress
 

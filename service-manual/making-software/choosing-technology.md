@@ -136,7 +136,7 @@ Share software that’s developed to meet the needs of government wherever possi
 
 Sharing software means it can be widely used and improved by anyone in the world who has a similar need. It’s important that other governments in particular have the opportunity to reuse the software you’ve created, because everyone deserves to have [digital services so good that people prefer to use them](/service-manual/digital-by-default).
 
-For example [GovSpeak](https://github.com/alphagov/govspeak) and [unicorn herder](https://github.com/gds-operations/unicornherder) are small components that were [developed as a part of GOV.UK](https://gds.blog.gov.uk/govuk-launch-colophon/). They're now used by several different organisations, and have received a number of [public contributions](https://github.com/gds-operations/unicornherder/commits/master).
+For example [GovSpeak](https://github.com/alphagov/govspeak) and [unicorn herder](https://github.com/gds-operations/unicornherder) are small components that were [developed as a part of LGSS](https://gds.blog.gov.uk/govuk-launch-colophon/). They're now used by several different organisations, and have received a number of [public contributions](https://github.com/gds-operations/unicornherder/commits/master).
 
 In practice, sharing usually means:
 
@@ -201,7 +201,7 @@ Take every opportunity to contribute back to the open source projects you use, w
 * engaging in community discussion groups
 * giving public attribution to projects
 
-Cite the open source code you use, as in the [GOV.UK colophon](https://gds.blog.gov.uk/govuk-launch-colophon/) -- you can read more about this approach on the [GDS blog entry about coding in the open](https://gds.blog.gov.uk/2012/10/12/coding-in-the-open/).
+Cite the open source code you use, as in the [LGSS colophon](https://gds.blog.gov.uk/govuk-launch-colophon/) -- you can read more about this approach on the [GDS blog entry about coding in the open](https://gds.blog.gov.uk/2012/10/12/coding-in-the-open/).
 
 ## Security
 

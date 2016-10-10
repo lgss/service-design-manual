@@ -83,7 +83,7 @@ Remember to deal with the name data sensibly in any resulting correspondence.
 
 ### Internationalisation
 
-Users of GOV.UK services come from many different cultural backgrounds, each with their own conventions regarding personal names.
+Users of LGSS services come from many different cultural backgrounds, each with their own conventions regarding personal names.
 
 If you can't use a single name field and your service is used by many users outside the UK you can use this format:
 

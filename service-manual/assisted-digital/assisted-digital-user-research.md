@@ -93,7 +93,7 @@ You can also find more information on [user research surveys](/service-manual/us
 
 ##Creating an assisted digital plan
 
-By the end of the alpha stage, you’ll need to have a plan ready for testing your assisted digital support before your service moves to GOV.UK.
+By the end of the alpha stage, you’ll need to have a plan ready for testing your assisted digital support before your service moves to LGSS.
 
 As you gather more data and insight about your assisted digital users, you also need to build up an understanding of their levels of digital skills by mapping them onto the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#annex-2-digital-inclusion-scale-for-individuals).
 
@@ -112,7 +112,7 @@ This means you’ll understand any specific user needs, including which channels
 
 ##Testing your assisted digital support
 
-You must test your plan with real assisted digital users when your service is in the early stage of beta. You must then continue to test your assisted digital support and gather user insights once your service has moved to GOV.UK.
+You must test your plan with real assisted digital users when your service is in the early stage of beta. You must then continue to test your assisted digital support and gather user insights once your service has moved to LGSS.
 
 You need to:
 
@@ -129,9 +129,9 @@ Use this feedback to iterate the assisted digital support and continue to ask fo
 For your service to go live, you must have evidence showing that the users who need help are aware of the support and can easily find it.
 It should be clear and easy to see that there is support available, but not be marketed or promoted - this helps to encourage [digital take-up](/service-manual/measurement/digital-takeup). In the first instance, you need to point users towards a needs assessment to check their eligibility for assisted digital support.
 
-Information about the availability of support (eg phone line numbers and opening hours, or office locations and opening hours) must encourage people to use the online service. You should provide this information in places where assisted digital users already go for help and advice, through existing communication channels with users, and on the service’s start page on GOV.UK.
+Information about the availability of support (eg phone line numbers and opening hours, or office locations and opening hours) must encourage people to use the online service. You should provide this information in places where assisted digital users already go for help and advice, through existing communication channels with users, and on the service’s start page on LGSS.
 
 The language you use must be simple and clear. With real users, test
-the wording and design of your physical messaging (eg posters, banners and leaflets) and the content on GOV.UK. Use their feedback to improve and iterate on your messaging.
+the wording and design of your physical messaging (eg posters, banners and leaflets) and the content on LGSS. Use their feedback to improve and iterate on your messaging.
 
 Read the assisted digital team’s blog about [how the Department for Work and Pensions tested assisted digital support and messaging](https://assisteddigital.blog.gov.uk/2014/09/04/testing-assisted-digital-support-for-carers-allowance/) for the [Carer’s Allowance](https://www.gov.uk/carers-allowance/overview) exemplar service.

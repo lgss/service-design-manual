@@ -21,18 +21,18 @@ breadcrumbs:
     url: /service-manual/user-centred-design
 ---
 
-Sass is a language for creating stylesheets that lets us share blocks of code and techniques. GDS has created a repository called the [GOV.UK Frontend Toolkit][govuk_frontend_toolkit] to simplify the creation of services with a consistent look and feel. The toolkit is [available as a gem][govuk_frontend_toolkit_gem] for easy inclusion in Ruby projects.
+Sass is a language for creating stylesheets that lets us share blocks of code and techniques. GDS has created a repository called the [LGSS Frontend Toolkit][govuk_frontend_toolkit] to simplify the creation of services with a consistent look and feel. The toolkit is [available as a gem][govuk_frontend_toolkit_gem] for easy inclusion in Ruby projects.
 
 ## Categories of Sass mixins
 
 The files in [the gem][govuk_frontend_toolkit_gem] can be categorised into four main parts:
 
-1. GOV.UK typography, colours and image assets
+1. LGSS typography, colours and image assets
 2. Mixins for responsive designs
 3. Mixins for targeting old versions of Internet Explorer
 4. Mixins for cross browser CSS
 
-The first part is the bit that gives all GOV.UK projects a familiar look. There are a collection of pre-defined font sizes that we use on GOV.UK. There is a mixin for each one, for example `heading-26`. These also include a standard amount of whitespace around the text to help with vertical rhythm on the page, spacing things out nicely.
+The first part is the bit that gives all LGSS projects a familiar look. There are a collection of pre-defined font sizes that we use on LGSS. There is a mixin for each one, for example `heading-26`. These also include a standard amount of whitespace around the text to help with vertical rhythm on the page, spacing things out nicely.
 
 The second is a way to develop sites that are able to respond to different sized displays.
 
@@ -60,7 +60,7 @@ There are two main types of cross browser CSS that we are concerned with. Firstl
 
 ## Further reading
 
-The `README.md` file in the [GOV.UK Frontend Toolkit][govuk_frontend_toolkit] has more information.
+The `README.md` file in the [LGSS Frontend Toolkit][govuk_frontend_toolkit] has more information.
 
 [govuk_frontend_toolkit]: https://github.com/alphagov/govuk_frontend_toolkit
 [govuk_frontend_toolkit_gem]: https://github.com/alphagov/govuk_frontend_toolkit_gem

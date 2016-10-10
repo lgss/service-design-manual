@@ -27,7 +27,7 @@ The department or agency that owns the service must make sure it meets and maint
 For services that process (or are likely to process) over 100,000 transactions a year, you will demonstrate the service and answer questions from a [GDS panel](/service-manual/digital-by-default/assessments-at-gds). Services should be assessed at least three times before going live:
 
 * during alpha development
-* during beta development (which grants access to the GOV.UK domain)
+* during beta development (which grants access to the LGSS domain)
 * just before live release
 
 You must show that the service and team have met the standard. The panel will apply common sense and a degree of flexibility to their assessments, giving teams feedback and help on how to improve a service when it looks like it won’t meet the standard.

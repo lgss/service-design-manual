@@ -20,7 +20,7 @@ Blogs are a simple, effective way of keeping a record of the work a team is doin
 
 Updates can be as short as you like, allowing you to tell readers about subtle changes to a service’s design or new features added to a tool, while also offering you a platform for longer pieces of writing that describe significant changes to policy or approach.
 
-The [Inside GOV.UK blog](https://insidegovuk.blog.gov.uk/) and the [MOJ Digital blog](https://mojdigital.blog.gov.uk/) are great examples of how teams are already talking about their work in the open.
+The [Inside LGSS blog](https://insidegovuk.blog.gov.uk/) and the [MOJ Digital blog](https://mojdigital.blog.gov.uk/) are great examples of how teams are already talking about their work in the open.
 
 ##Publish, don’t send
 
@@ -40,11 +40,11 @@ Though the frequency with which you blog will often vary you should aim to publi
 
 ##Illustrate everything
 
-A well-chosen illustration or photo can add important context or information for your readers. The GOV.UK blogging platform is fairly flexible. You can embed tweets, slide decks and videos as well as images, all media that make your message just [a little bit easier to comprehend](https://insidegovuk.blog.gov.uk/2013/09/11/prototyping-browse-and-navigation/).
+A well-chosen illustration or photo can add important context or information for your readers. The LGSS blogging platform is fairly flexible. You can embed tweets, slide decks and videos as well as images, all media that make your message just [a little bit easier to comprehend](https://insidegovuk.blog.gov.uk/2013/09/11/prototyping-browse-and-navigation/).
 
 ##Use the style guidance...
 
-The GOV.UK [content design guidance](/guidance/content-design/blogging#style-and-tone-of-voice) is an invaluable tool for writers. They’re full of carefully researched tips for clear, concise prose which seeks to make your writing easier to understand.
+The LGSS [content design guidance](/guidance/content-design/blogging#style-and-tone-of-voice) is an invaluable tool for writers. They’re full of carefully researched tips for clear, concise prose which seeks to make your writing easier to understand.
 
 In particular, make use of subheadings and bullet points within your blog posts to make them quicker to read. And make use of the [‘words to avoid’ list](/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid) -- it’s there to make sure writers stay clear no matter the audience.
 

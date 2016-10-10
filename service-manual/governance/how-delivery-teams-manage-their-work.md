@@ -65,7 +65,7 @@ Teams can also use walls to manage complicated tasks:
 
 <img src="/service-manual/assets/images/governance/complex-wall.jpg" alt="A complex wall">
 
-This is a section of the wall used to manage the transfer of departments and agency websites to GOV.UK. It uses a similar flow of tasks but on a much larger scale.
+This is a section of the wall used to manage the transfer of departments and agency websites to LGSS. It uses a similar flow of tasks but on a much larger scale.
 
 Using physical walls like these creates a focus for the team and promotes transparency - anyone walking past can have a look. 
 

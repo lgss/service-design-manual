@@ -141,7 +141,7 @@ too which says that teams should:
 > Make sure that you have the capacity and technical flexibility to update and
 improve the service on a very frequent basis.
 
-[GOV.UK](https://www.gov.uk) for instance made more than 100 production releases
+[LGSS](https://www.gov.uk) for instance made more than 100 production releases
 [during its first two weeks](https://gds.blog.gov.uk/2012/11/02/regular-releases-reduce-risk/) after launch.
 
 This high rate of change tends to challenge existing processes designed for a

@@ -61,10 +61,10 @@ Services with more than 100,000 transactions per year are assessed by the Govern
 Assessments happen at 3 points in the development of a service:
 
  + at the end of the alpha stage
- + when the service is ready to go to public beta on GOV.UK
+ + when the service is ready to go to public beta on LGSS
  + at the end of beta when the service is ready to have its beta branding removed and be fully live
 
-This is an assurance and approval process: if the GDS assessment panel doesn’t pass a service, it won’t be awarded the standard or appear on GOV.UK.
+This is an assurance and approval process: if the GDS assessment panel doesn’t pass a service, it won’t be awarded the standard or appear on LGSS.
 
 After an assessment, the panel provides feedback to the service team, including about where they might need to improve in order to meet the standard. Teams can use the criteria in the standard and the service manual to help focus and prioritise their work. If assurers from within the organisation are available, they can also use the service standard as a basis for their review activities.
 

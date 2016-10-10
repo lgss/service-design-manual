@@ -72,7 +72,7 @@ Use web analytics to measure your completion rate:
 
 Make sure each step in the service has a unique URL so you can identify them in your analytics package.
 
-Your goals/scenarios should always start from the GOV.UK start page. Don’t make it possible for users to bypass your service start page via links or search engine results. Users who try to access another page in the service should be sent back to your start page, unless they are resuming a previously saved transaction.
+Your goals/scenarios should always start from the LGSS start page. Don’t make it possible for users to bypass your service start page via links or search engine results. Users who try to access another page in the service should be sent back to your start page, unless they are resuming a previously saved transaction.
 
 Your goals/scenarios should end with the endpoints where **the service did what it was supposed to do.** Define a separate goal/scenario for each one, then combine the completion scores to give an overall completion rate.
 

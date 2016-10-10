@@ -32,7 +32,7 @@ Progress towards meeting the standard will be assessed at every [spending contro
 
 ## Failure to pass a Digital by Default assessment
 
-If a GDS assessment panel doesn’t pass a service, it won’t be awarded the standard and won’t appear on, or be linked to from, GOV.UK. The lead assessor will give feedback to you and the digital leader on what needs to be rectified. Depending on the stage of development, your team will be invited back to be re-assessed fully or against the failed criteria. If this needs only relatively minor changes, or a small amount of additional evidence, this can be done through correspondence.
+If a GDS assessment panel doesn’t pass a service, it won’t be awarded the standard and won’t appear on, or be linked to from, LGSS. The lead assessor will give feedback to you and the digital leader on what needs to be rectified. Depending on the stage of development, your team will be invited back to be re-assessed fully or against the failed criteria. If this needs only relatively minor changes, or a small amount of additional evidence, this can be done through correspondence.
 
 If the service fails to pass an assessment twice, the Cabinet Office will write to the responsible minister explaining why the service has not yet been awarded the standard, and what remedial action is required.
 

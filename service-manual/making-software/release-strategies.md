@@ -34,7 +34,7 @@ It’s important to make the distinction between:
 * releasing regularly
 * having the ability to release all the time
 
-Your application should always be in a state where it could be released, meaning quick changes can be made when needed. As an example, changes to the software running GOV.UK are made on average 5 times per day.
+Your application should always be in a state where it could be released, meaning quick changes can be made when needed. As an example, changes to the software running LGSS are made on average 5 times per day.
 
 To be able to do this, you have to consider:
 
@@ -76,4 +76,4 @@ But problems will always happen at some point! Using your efforts to reduce the 
 
 ## Further reading
 
-* [Regular Releases Reduce Risk](https://gds.blog.gov.uk/2012/11/02/regular-releases-reduce-risk/) blog post about the approach to releasing software onto GOV.UK
+* [Regular Releases Reduce Risk](https://gds.blog.gov.uk/2012/11/02/regular-releases-reduce-risk/) blog post about the approach to releasing software onto LGSS

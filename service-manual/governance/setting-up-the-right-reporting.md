@@ -39,9 +39,9 @@ Teams should set up reporting in a way that won’t cause any extra work. This i
 
 This reporting should provide all the information that's needed for good governance.
 
-<img src="/service-manual/assets/images/governance/wall-combined.jpg" alt="The GOV.UK team uses the data on its team wall to create a report for people who cannot visit the wall"/>
+<img src="/service-manual/assets/images/governance/wall-combined.jpg" alt="The LGSS team uses the data on its team wall to create a report for people who cannot visit the wall"/>
 
-The GOV.UK team uses the data on its team wall to create a report for people who cannot visit the wall.
+The LGSS team uses the data on its team wall to create a report for people who cannot visit the wall.
 
 
 Everyone should feel comfortable and welcome to [view a team wall](/service-manual/governance/how-delivery-teams-manage-their-work) at any point. This will support a culture of transparency in your organisation and make sure any problems can be discussed and solved openly.

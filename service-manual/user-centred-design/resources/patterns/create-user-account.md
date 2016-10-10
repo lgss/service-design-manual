@@ -35,7 +35,7 @@ Account management systems are [hard to build and hard to use](/service-manual/m
 
 For example, delivery companies often let people track the status of a parcel by entering a unique order number and their email or name.
 
-Alternatively, use the existing [GOV.UK Verify sign-in service](/service-manual/identity-assurance).
+Alternatively, use the existing [LGSS Verify sign-in service](/service-manual/identity-assurance).
 
 ---
 
@@ -49,7 +49,7 @@ If people can avoid creating an account at all -- even better.
 
 <h2 class="heading-36" id="section-3">3. Use consistent and unambiguous language</h2> 
 
-For consistency with other GOV.UK services, use the phrase ‘Create an account’ on the appropriate screens rather than ‘Register’, ‘Sign-up’ or something else.
+For consistency with other LGSS services, use the phrase ‘Create an account’ on the appropriate screens rather than ‘Register’, ‘Sign-up’ or something else.
 
 Similarly, use labels like ‘Create a username’ and ‘Create a password’ rather than ‘Username’ and ‘Password’, so people understand that they're not being asked to enter existing ones.
 

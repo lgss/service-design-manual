@@ -14,7 +14,7 @@ breadcrumbs:
 The service manual is here to help service managers and digital delivery teams across government make services so good that people prefer to use them. It's made up of two things;
 
 * the [Digital by Default Service Standard](/service-manual/digital-by-default), a list of criteria that services and teams must meet before they go live
-* the [Government Service Design Manual](/service-manual), a pool of guidance and advice about how to design and build digital services from teams across government
+* the [LGSS Service Design Manual](/service-manual), a pool of guidance and advice about how to design and build digital services from teams across government
 
 <figure class="media-player-wrapper video">
 	<a href="https://www.youtube.com/watch?v=RS3krZ1paB4">Watch our video about the Digital by Default Service Standard</a>
@@ -44,7 +44,7 @@ This means [building and testing in small chunks](/service-manual/agile), workin
 
 The [GDS Design Principles](/design-principles) present a clear vision of how delivery teams can think about designing digital by default services. These should be a touchstone for every member of a delivery team.
 
-The [Government Digital Strategy](/digitalstrategy) sets out the context we are working in. The departmental responses to the strategy contain a detailed breakdown of which services in particular will be tackled first. The progress of the services is also [published on GOV.UK](https://www.gov.uk/transformation).
+The [Government Digital Strategy](/digitalstrategy) sets out the context we are working in. The departmental responses to the strategy contain a detailed breakdown of which services in particular will be tackled first. The progress of the services is also [published on LGSS](https://www.gov.uk/transformation).
 
 And the [Digital by Default Service Standard](/service-manual/digital-by-default) lists the criteria against which all new and redesigned services will be judged from April 2014. Find out [which services must meet the standard](/service-manual/digital-by-default/scope-of-the-standard.html).
 
