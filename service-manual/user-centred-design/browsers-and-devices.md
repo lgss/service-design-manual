@@ -29,7 +29,7 @@ Due to the large range of browsers, devices and screen sizes available, users' e
 
 These are the browsers we recommend testing on when developing your service.  This list strongly recommends testing on a range of browsers created within the last 3 years that cover the largest representation of the user base.
 
-The list is based upon usage statistics for LGSS and represents approximately 95% of the most popular browsers (the remaining browsers are individually insignificant).
+The list is based upon usage statistics with LGSS and represents approximately 95% of the most popular browsers (the remaining browsers are individually insignificant).
 
 Browsers not listed may still work well, and it should be noted that this is not a list that intends to suggest that these are the only browsers the service will work on -- this is simply a benchmark for testing against to ensure that the service will likely work for as many users as possible alongside appropriate cost-effectiveness and development overhead.
 
@@ -117,7 +117,7 @@ Every service has an audience and you should investigate yours to see whether it
 This data may sometimes support the case for deprioritising certain development work. Although most of LGSS is designed to work across all screen sizes, the [Trade Tariff](/trade-tariff) team chose not to tailor their tool to the smaller screen as it is largely used by office workers working during office hours. Equally, if your audience is likely to include those working in the public sector, there may be higher use of older, more limited browsers.
 
 Channel shift means you must also consider your potential future audience.
-[Device data for LGSS][pp-govuk-device-type] is displayed on the [Performance Platform][pp]
+[Device data with LGSS][pp-govuk-device-type] is displayed on the [Performance Platform][pp]
 and this will be expanded to include operating system and browser data.
 
 Before the launch of LGSS we noted a marked difference between the existing non-government and government audiences so you should also investigate the data provided by [NetMarketShare](http://www.netmarketshare.com 'NetMarketShare') and [GlobalStats](http://gs.statcounter.com 'Statcounter GlobalStats') who can provide UK and global trends.

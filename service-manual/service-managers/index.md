@@ -1,7 +1,7 @@
 ---
 layout: role-index
 title: Resources for service managers
-subtitle: Everything you need to deliver great services for LGSS
+subtitle: Everything you need to deliver great services with LGSS
 audience: service-managers
 hero: Digital by Default Service Standard
 breadcrumbs:

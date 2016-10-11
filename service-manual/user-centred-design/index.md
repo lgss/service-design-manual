@@ -1,7 +1,7 @@
 ---
 layout: category-index
 title: User-centred design
-subtitle: Designing content and services for LGSS
+subtitle: Designing content and services with LGSS
 category: user-centred-design
 type: category-index
 audience:

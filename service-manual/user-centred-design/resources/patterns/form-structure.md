@@ -14,7 +14,7 @@ breadcrumbs:
 ---
 
 {:.intro}
-How to structure web forms for LGSS services.
+How to structure web forms with LGSS services.
 
 ### On this page:
 
