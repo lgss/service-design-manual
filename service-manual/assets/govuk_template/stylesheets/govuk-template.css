@@ -82,7 +82,7 @@ Example usage:
 /* local styleguide includes */
 /* New Greys */
 html, body, button, input, table, td, th {
-  font-family: "nta", Arial, sans-serif; }
+  font-family: "PT Sans", Arial, sans-serif; }
 
 html, body, div, h1, h2, h3, h4, h5, h6, article, aside, footer, header, hgroup, nav, section {
   margin: 0;
