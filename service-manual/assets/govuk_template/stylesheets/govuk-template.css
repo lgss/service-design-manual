@@ -389,7 +389,7 @@ select:focus,
     overflow: visible;
     vertical-align: baseline;
     color: white;
-    font-weight: bold;
+    font-weight: normal;
     font-size: 30px;
     line-height: 1em;
     text-decoration: none;
@@ -423,7 +423,7 @@ select:focus,
       line-height: 1.25;
       font-weight: 400;
       text-transform: none;
-      font-weight: bold;
+      font-weight: normal;
       color: white;
       text-decoration: none; }
       @media (max-width: 640px) {
