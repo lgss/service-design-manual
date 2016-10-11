@@ -547,7 +547,7 @@ select:focus,
   #footer .footer-wrapper {
     max-width: 60em;
     margin: 0 auto;
-    padding: 60px 1em 0 1em; }
+    padding: 1em 1em 0 1em; }
     @media (max-width: 640px) {
       #footer .footer-wrapper {
         padding-top: 20px; } }
@@ -556,7 +556,7 @@ select:focus,
     #footer a:hover {
       color: #171819; }
   #footer h2 {
-    font-family: "nta", Arial, sans-serif;
+    font-family: "PT Sans", Arial, sans-serif;
     font-size: 24px;
     line-height: 1.25;
     font-weight: 400;
@@ -587,7 +587,7 @@ select:focus,
           display: block;
           width: 100%; } }
       #footer .footer-meta .footer-meta-inner ul {
-        font-family: "nta", Arial, sans-serif;
+        font-family: "PT Sans", Arial, sans-serif;
         font-size: 16px;
         line-height: 1.5;
         font-weight: 300;
@@ -630,7 +630,7 @@ select:focus,
             width: 43px;
             height: 17px; }
         #footer .footer-meta .footer-meta-inner .open-government-licence p {
-          font-family: "nta", Arial, sans-serif;
+          font-family: "PT Sans", Arial, sans-serif;
           font-size: 16px;
           line-height: 1.25;
           font-weight: 300;
