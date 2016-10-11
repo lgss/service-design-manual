@@ -82,7 +82,7 @@ Flexible technology and services give service managers the ability evolve servic
 
 Reducing the risk of lock-in to suppliers, software, service and support, or too old and inefficient IT, means that you have the ability to choose what best meets the outcomes you are looking for at a sustainable and competitive cost and at a timescale that suits you.
 
-## Example: hosting changes for LGSS
+## Example: hosting changes with LGSS
 
 LGSS is an example of how this works in practice. On the technology side, [we set up hosting to build the beta of LGSS][gds-beta-hosting]
 and then transferred it to [a new supplier on the G-Cloud framework][gds-skyscape] before launch.
