@@ -672,12 +672,12 @@ select:focus,
       #footer .footer-meta .copyright a {
         display: block;
         padding: 115px 0 0 0;
-        background: transparent url(images/govuk-crest.png) no-repeat 100% 0;
+        background: transparent url() no-repeat 100% 0;
         text-align: right;
         text-decoration: none; }
         @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 20 / 10), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
           #footer .footer-meta .copyright a {
-            background-image: url(images/govuk-crest-2x.png);
+            background-image: url(-2x.png);
             background-size: 125px 102px; } }
       @media (max-width: 640px) {
         #footer .footer-meta .copyright {
